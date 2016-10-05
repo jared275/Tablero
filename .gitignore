@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+._.DS_Store
+._diccionario_de_datos_Dashboard.xlsx
+Genera_Catalogos_nuevo.R
+RVTools_Sym_nulos.csv
+Tablero.Rproj
+data
+diccionario_de_datos_Dashboard.xlsx
+server_fisicos_to_SymRVTools.R
+server_virtual_to_SymRVTools.R
+servidores_fisicos.csv
+servidores_virtuales.csv
