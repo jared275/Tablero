@@ -14,7 +14,7 @@ library(plotly)
 library(tidyr)
 library(Hmisc)
 library(reshape2)
-#papa
+#papalord
 
 #### Para ponintar el Dashboard, necesitamos 3 archivos csv, 1 html y un rds
 # 1. catalogo_aplicacion_servidor.csv
